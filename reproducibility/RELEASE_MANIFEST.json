@@ -550,7 +550,7 @@
     {
       "path": "validation/release_integrity.json",
       "bytes": 273,
-      "sha256": "6b9b03e11fc425be40013e3f2788a4fc73ff23f1733ba0d78f96f7c519fccbc3"
+      "sha256": "fbde1e279f9ce1ac85a128e7ee474402ebdec3d8196bd59a85e0c99bf759baf1"
     },
     {
       "path": "validation/smoke_test.json",

@@ -1,6 +1,6 @@
 {
   "all_passed": true,
-  "manifest_files": 111,
+  "manifest_files": 112,
   "predictor_arrays": 6,
   "source_labels_public": false,
   "frozen_role_groups_per_cohort": 40,
