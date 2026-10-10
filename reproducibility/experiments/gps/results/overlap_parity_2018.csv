@@ -1,0 +1,15 @@
+band,maximum_overlap_abs_delta
+B2,0.0
+B3,0.0
+B4,0.0
+B8,0.0
+B11,0.0
+B12,0.0
+NDVI,0.0
+VV,0.0
+VH,0.0
+VV_minus_VH,0.0
+elev,0.0
+slope,0.0
+aspect_sin,0.0
+aspect_cos,0.0

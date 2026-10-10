@@ -1,0 +1,30 @@
+[
+  {
+    "file": "Eurostat_DE_2018_20200213.CSV",
+    "url": "https://ec.europa.eu/eurostat/cache/lucas/DE_2018_20200213.CSV",
+    "retrieved_UTC_date": "2026-10-10",
+    "bytes": 11921517,
+    "sha256": "0b642f47cad2851bb2c36fd18529e628dd88096d4f76cee268ed06d79fe103b9"
+  },
+  {
+    "file": "ESDAC_readme_LUCAS-SOIL-2018.docx",
+    "url": "https://esdac.jrc.ec.europa.eu/public_path/shared_folder/dataset/75-LUCAS-SOIL-2018/readme_LUCAS-SOIL-2018-29_07_2022.docx",
+    "retrieved_UTC_date": "2026-10-10",
+    "bytes": 25194,
+    "sha256": "069780147418860c48add95aa92637d7bf1df7f6ef9100a2f806ab599be97187"
+  },
+  {
+    "file": "Eurostat_LUCAS2018_RecordDescriptor.pdf",
+    "url": "https://ec.europa.eu/eurostat/documents/205002/8072634/LUCAS2018-RecordDescriptor-190611.pdf",
+    "retrieved_UTC_date": "2026-10-10",
+    "bytes": 298789,
+    "sha256": "e7d2a9e7d75db677c50af72c45587f1875a49fec739b088457ad41a39245450e"
+  },
+  {
+    "file": "LUCAS2018_soil_sampling_instructions.pdf",
+    "url": "https://esdac.jrc.ec.europa.eu/public_path/shared_folder/doc_pub/JRC105923_LUCAS2018_JRCTechnicalReport.pdf",
+    "retrieved_UTC_date": "2026-10-10",
+    "bytes": 2874440,
+    "sha256": "a07f409c259add2cef7fbeb85105241a04662d964dfdb2723316118e2bf5c13d"
+  }
+]

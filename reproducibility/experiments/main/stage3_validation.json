@@ -1,0 +1,9 @@
+{
+  "all_passed": true,
+  "model_fold_results": 640,
+  "neural_weights": 320,
+  "heldout_predictions": 84864,
+  "min_buffer_train_test_distance_m": 20000.117598042718,
+  "actual_target_and_fold_membership_checked": true,
+  "notebook_code_cells_executed": 7
+}

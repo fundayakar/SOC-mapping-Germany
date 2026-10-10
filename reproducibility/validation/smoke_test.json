@@ -1,0 +1,8 @@
+{
+  "all_completed": false,
+  "smoke_completed": true,
+  "expected_fits": 15,
+  "completed_fits": 15,
+  "OOF_rows": 2940,
+  "fingerprint": "262be5012cb6ae43c0641644b2fcc5715a44e986826c20119c3cf3269ba22c0c"
+}

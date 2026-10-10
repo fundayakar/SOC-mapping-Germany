@@ -1,0 +1,35 @@
+{
+  "all_passed": true,
+  "raw_expert_pairs": 20,
+  "new_final_gate_models": 80,
+  "objectives": [
+    "MAE",
+    "MSE"
+  ],
+  "strategies": 18,
+  "inner_hyperparam_fits": 720,
+  "final_test_point_predictions": 2652,
+  "gradient_checks": [
+    {
+      "objective": "MAE",
+      "absolute_gradient_error": 4.1429645326102064e-08,
+      "relative_gradient_error": 4.1429645326102064e-08
+    },
+    {
+      "objective": "MSE",
+      "absolute_gradient_error": 2.0964319863123388e-07,
+      "relative_gradient_error": 4.348314594752964e-08
+    }
+  ],
+  "calibration_only_scaling": true,
+  "hyperparameter_selection_calibration_only": true,
+  "minimum_buffer_inner_distance_m": 20000.117598042718,
+  "old_frozen_expert_source": "prior honest pilot; not fresh ablation experts",
+  "exploratory": true,
+  "inner_fit_counts_per_family": {
+    "direct": 360,
+    "winner_probability": 360
+  },
+  "saved_gate_predictions_replayed": 80,
+  "inner_selected_hyperparameters_verified": true
+}

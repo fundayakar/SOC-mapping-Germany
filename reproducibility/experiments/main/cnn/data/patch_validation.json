@@ -1,0 +1,44 @@
+[
+  {
+    "year": 2018,
+    "n": 663,
+    "shape": [
+      663,
+      14,
+      17,
+      17
+    ],
+    "mask_shape": [
+      663,
+      1,
+      17,
+      17
+    ],
+    "center_parity_passed": true,
+    "max_center_offset_m": 14.133454391678775,
+    "minimum_valid_fraction": 1.0,
+    "input_csv_sha256": "a9048111ffc3016c9b4dfe029b5d7673c1e2f0a7e9d252c1d3ba633ef335d7ce",
+    "cnn_trained": false
+  },
+  {
+    "year": 2022,
+    "n": 663,
+    "shape": [
+      663,
+      14,
+      17,
+      17
+    ],
+    "mask_shape": [
+      663,
+      1,
+      17,
+      17
+    ],
+    "center_parity_passed": true,
+    "max_center_offset_m": 14.133454391678775,
+    "minimum_valid_fraction": 1.0,
+    "input_csv_sha256": "d55b74425048262d8352f3fc323c605f66cb40d4defa9cc9877cd376ea71f645",
+    "cnn_trained": false
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "all_portable": true,
+  "checkpoints": 1480,
+  "groups": {
+    "controls": 520,
+    "gps": 640,
+    "historical_main": 320
+  },
+  "strict_passed": 960,
+  "max_abs_prediction_delta": 0.00010668580426909102,
+  "max_scaled_delta": 0.3305664906551101,
+  "atol": 0.0001,
+  "rtol": 1e-06,
+  "torch": "2.14.1+cpu",
+  "saved_predictions_modified": false
+}

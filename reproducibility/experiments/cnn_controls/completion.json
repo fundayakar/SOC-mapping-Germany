@@ -1,0 +1,9 @@
+{
+  "all_completed": true,
+  "new_model_fold_fits": 520,
+  "primary_control_fits": 320,
+  "fresh_original_fits": 160,
+  "second_permutation_fits": 40,
+  "CNN_parameter_count": 8449,
+  "old_stage3_original_used_as_primary_reference": false
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "source_package": "SOC_stage3_package.zip",
+    "bytes": 71778972,
+    "sha256": "3f7072cf9d1f45a0afcc85cbfdcdb582b6475b86a3ca0a10088e9e212f43fcf1"
+  },
+  {
+    "source_package": "SOC_CNN_controls_and_loss_gate_package.zip",
+    "bytes": 44000761,
+    "sha256": "a44ff86ec686de8e7c1f422e2c695c9bf688acfe15efcbb398853cce20f0d07a"
+  },
+  {
+    "source_package": "SOC_GPS_sensitivity_package.zip",
+    "bytes": 73417217,
+    "sha256": "515c51a2c4e1479c269b1b33e19cc55e6097a0c4d1594efad16115c1bc0eb6bf"
+  },
+  {
+    "source_package": "SOC_coordinate_audit_package.zip",
+    "bytes": 5118495,
+    "sha256": "43a828f159ef2fbd557d523e1eedd6ca81eb41529fc0b62a1485deece358de21"
+  },
+  {
+    "source_package": "SOC_adaptive_method_pilot_package.zip",
+    "bytes": 9964111,
+    "sha256": "473677fa6897ef4a88e3a290f9e99797706d5a4279995db185f413da86c0c81e"
+  }
+]

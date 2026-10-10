@@ -1,0 +1,69 @@
+{
+  "target_RF_fits": 1550,
+  "CNN_control_model_fold_fits": 640,
+  "CNN_trained": true,
+  "years": [
+    2018,
+    2022
+  ],
+  "n_0_20cm_points": 663,
+  "target_year": 2018,
+  "primary_protocol": "100km spatial blocks, 5 repeats x 5 folds",
+  "patch_exports": {
+    "2018": {
+      "task_id": "VZN3TIXTQOOZ7OQWC7OS2DS2",
+      "phase": "Completed",
+      "runtime_seconds": 39
+    },
+    "2022": {
+      "task_id": "CGNCY4EF2N7PQII5SVFA5TDY",
+      "phase": "Completed",
+      "runtime_seconds": 46
+    }
+  },
+  "patch_qc": [
+    {
+      "year": 2018,
+      "n": 663,
+      "shape": [
+        663,
+        14,
+        17,
+        17
+      ],
+      "mask_shape": [
+        663,
+        1,
+        17,
+        17
+      ],
+      "center_parity_passed": true,
+      "max_center_offset_m": 14.133454391678775,
+      "minimum_valid_fraction": 1.0,
+      "input_csv_sha256": "a9048111ffc3016c9b4dfe029b5d7673c1e2f0a7e9d252c1d3ba633ef335d7ce"
+    },
+    {
+      "year": 2022,
+      "n": 663,
+      "shape": [
+        663,
+        14,
+        17,
+        17
+      ],
+      "mask_shape": [
+        663,
+        1,
+        17,
+        17
+      ],
+      "center_parity_passed": true,
+      "max_center_offset_m": 14.133454391678775,
+      "minimum_valid_fraction": 1.0,
+      "input_csv_sha256": "d55b74425048262d8352f3fc323c605f66cb40d4defa9cc9877cd376ea71f645"
+    }
+  ],
+  "center_RF_reference_parity_max_abs_error": 9.947598300641403e-14,
+  "cnn_buffer20_run": true,
+  "target_baseline_parity": 1.4210854715202004e-13
+}

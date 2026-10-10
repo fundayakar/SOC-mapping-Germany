@@ -1,0 +1,39 @@
+{
+  "name": "CNN_same_capacity_information_ablation",
+  "primary_variants": [
+    "center_tiled",
+    "shuffle_314159"
+  ],
+  "secondary_shuffle_seed": 271828,
+  "years": [
+    2018,
+    2022
+  ],
+  "targets": [
+    "log",
+    "raw"
+  ],
+  "protocol_repeats": {
+    "block_100": 5,
+    "block_100_buffer20": 3
+  },
+  "architecture": "Unchanged stage3 PatchCNN, 8449 parameters, same center/climate skip branch and masks.",
+  "transformations": "Center_tiled repeats original 14-band center throughout 17x17. Shuffle preserves center, uses one deterministic point-id hash permutation shared across all 14 bands; both train and test transformed before separate training. Same permutation in both years and repeats.",
+  "normalization": "All variants use original, untransformed training-patch moments. Point/climate tensors therefore exactly identical across variants; statistics fit separately on inner and outer training only.",
+  "optimization": "Adam lr .001 wd .0001 batch32, 100max epochs patience15; first 3-way 100km GroupKFold inner split, with20km inner buffer where relevant; separate epoch selection pervariant.",
+  "seeds": "Neural init and loader exactly stage3: 42+100*outerseed+fold. One secondary permutation seed on outerseed0 only; original replay on seed0/fold0 for8year-target-protocol conditions.",
+  "interpretation": "Separately retrained input controls; not causal pedological inference, external validation, or novelty proof.",
+  "torch_version": "2.14.1+cpu",
+  "threads": 1,
+  "code_sha256": "23dcb25a5f6331880526387e928cb4ff02f240875b2f58d85a0e43891db9318b",
+  "source_library_id": "libfile_ad27616539488191b0d5d12e7ba36ef0",
+  "source_sha256": {
+    "cnn/train_patch_models.py": "6b18477bc1ebf9f239802a01bc11ddfe967a27c634c4c8a17aa125051e9099d1",
+    "cnn/prepare_patches.py": "dbd12c0b378673c6319d38d1559ff9d55e45c122f9f2d60f4660b63fd3ac555a",
+    "target_compare.py": "b84f16849c95173f037dff22cc015be02771bdb5dca455ffaf050be13caa17a2",
+    "stage2/results/fold_assignments.csv": "68f67bbdaf8c47d494dd19c803b7bef0ebc1d84b11a1285a82017e7a6855cf54",
+    "cnn/data/patches_2018.npz": "5c6cf577df82c04e7133aaec7db87342035c1425eade5b081688a023a1d3eaa4",
+    "cnn/data/patches_2022.npz": "84712e41496e35a09ce20503d6f2a4f9cc54b227802a12de7cdc5f6b3a4ead57"
+  },
+  "fingerprint": "2ecc6c18901eee0fc2e3506ae91b6316f41eec10060abc1b0048e81448afeb22"
+}

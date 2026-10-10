@@ -1,0 +1,14 @@
+{
+  "all_passed": true,
+  "new_CNN_model_folds": 520,
+  "weights_replayed": 520,
+  "max_prediction_replay_delta": 0.0,
+  "shared_point_branch_exact": true,
+  "normalization_original_training_only": true,
+  "parameter_count_each": 8449,
+  "transformations_invertible_multiband_shuffle": true,
+  "labels_not_used_for_permutations": true,
+  "spatial_folds_checked": true,
+  "minimum_buffer_inner_or_outer_distance_m": 20000.117598042718,
+  "test_label_perturbation_invariant": true
+}

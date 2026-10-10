@@ -1,0 +1,50 @@
+[
+  {
+    "name": "main_2018",
+    "n": 663,
+    "input_sha256": "5c6cf577df82c04e7133aaec7db87342035c1425eade5b081688a023a1d3eaa4",
+    "predictors_sha256": "d2b283a1b1d8b0c4410933a4d32868e0f9ebf05af9c2ae927f748df92a46e2e2",
+    "label_array_sha256": "f574ea13ee664d0ad791b9052d28b30aaab1f536880d1e5fc53db067b0a21a4e",
+    "label_dtype": "float64"
+  },
+  {
+    "name": "main_2022",
+    "n": 663,
+    "input_sha256": "84712e41496e35a09ce20503d6f2a4f9cc54b227802a12de7cdc5f6b3a4ead57",
+    "predictors_sha256": "2495c00ce42f9de112c6cccb389f813a24e572f97bcb228116456d407e07cd0f",
+    "label_array_sha256": "f574ea13ee664d0ad791b9052d28b30aaab1f536880d1e5fc53db067b0a21a4e",
+    "label_dtype": "float64"
+  },
+  {
+    "name": "nominal_2018",
+    "n": 662,
+    "input_sha256": "0e968d021941ad773026ef6cb36d11a4b2c8af7b944bb8567bad6fced55b86b0",
+    "predictors_sha256": "91a02c1dc030627ce96e2b39b1d2b6c30760987ec9150c3f6a4dee6727a67fcd",
+    "label_array_sha256": "34875d00f715c3384e4ad89c6da80eb4ab048aba43e93152defcd7dd21e924e3",
+    "label_dtype": "float64"
+  },
+  {
+    "name": "nominal_2022",
+    "n": 662,
+    "input_sha256": "9326b5581e7d6df83e2098e45998e46c50b307b3ffd674d95e92caed2c9f3cc4",
+    "predictors_sha256": "a18b4d826c280319903dc5e0d241e3a6c6486203c114a2a729aa6ac60636bcd1",
+    "label_array_sha256": "34875d00f715c3384e4ad89c6da80eb4ab048aba43e93152defcd7dd21e924e3",
+    "label_dtype": "float64"
+  },
+  {
+    "name": "gps_2018",
+    "n": 662,
+    "input_sha256": "27dc8822aa0bf82f575d8844960fcbf8e53cf657192e7bc91f6bdc519a1c8362",
+    "predictors_sha256": "5a8cf781e0306b5fc7c52f98a71ac2ce3cbf127c7489bde06f0b4ecbb08053c7",
+    "label_array_sha256": "34875d00f715c3384e4ad89c6da80eb4ab048aba43e93152defcd7dd21e924e3",
+    "label_dtype": "float64"
+  },
+  {
+    "name": "gps_2022",
+    "n": 662,
+    "input_sha256": "c335a3fcc69437a910053f8816270c6c306137696b375752971e7b3652e4a804",
+    "predictors_sha256": "c443ba7da294514a96170f275f896a6cca282f86e41f515ba8268fe990f3476e",
+    "label_array_sha256": "34875d00f715c3384e4ad89c6da80eb4ab048aba43e93152defcd7dd21e924e3",
+    "label_dtype": "float64"
+  }
+]

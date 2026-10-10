@@ -1,0 +1,167 @@
+[
+  {
+    "file": "experiments/main/target_compare.py",
+    "sha256": "b84f16849c95173f037dff22cc015be02771bdb5dca455ffaf050be13caa17a2",
+    "change": "none"
+  },
+  {
+    "file": "experiments/main/validate_results.py",
+    "sha256": "bcc82251b049dae310850c55605da40b04bb8cd0733b2d5c36f0b0596aafb6cb",
+    "change": "none"
+  },
+  {
+    "file": "experiments/main/build_stage3_report.py",
+    "sha256": "6be3a285a088da587692941464f0c44baf39e96b2db8ed93cb7328e53a66f712",
+    "change": "none"
+  },
+  {
+    "file": "experiments/main/requirements_rf.txt",
+    "sha256": "9ec82eabd11d4edb2ad4fa3483de5f0330aa06ea7a57c6beb2800417f9a44262",
+    "change": "none"
+  },
+  {
+    "file": "experiments/main/requirements_cnn.txt",
+    "sha256": "760f0dd499bceef86d094dadf0c84c8f5da6c1980c8e7e79a00b15c59887a56e",
+    "change": "none"
+  },
+  {
+    "file": "experiments/main/stage2/rf_compare.py",
+    "sha256": "1a485ceee329a156a6272ac27cabca49574765b34f6c321e76b263bf49969ae8",
+    "change": "none"
+  },
+  {
+    "file": "experiments/main/stage2/GEE_SOC_stage1.js",
+    "sha256": "0e2daab748655d008ce36d38f9610da185a10cd287ea4bde0e2b19da0cc9bb24",
+    "change": "none"
+  },
+  {
+    "file": "experiments/main/stage2/input/GEE_RF_projected_grid.js",
+    "sha256": "961bd792b01aeb7a8ec585467fbf6d308baa787d00703947126855234b274c11",
+    "change": "none"
+  },
+  {
+    "file": "experiments/main/cnn/train_patch_models.py",
+    "sha256": "6b18477bc1ebf9f239802a01bc11ddfe967a27c634c4c8a17aa125051e9099d1",
+    "change": "none"
+  },
+  {
+    "file": "experiments/main/cnn/prepare_patches.py",
+    "sha256": "dbd12c0b378673c6319d38d1559ff9d55e45c122f9f2d60f4660b63fd3ac555a",
+    "change": "none"
+  },
+  {
+    "file": "experiments/main/cnn/run_batch.py",
+    "sha256": "9fb2d2cd4111cab9da1b429ec2ec5dffb681d87834fa665fc5be4e25a695446e",
+    "change": "none"
+  },
+  {
+    "file": "experiments/main/cnn/GEE_CNN_patches.js",
+    "sha256": "67bed4a45bf01900275100643b37bb38760fa20dfd8094ff166ea7d13c69096e",
+    "change": "none"
+  },
+  {
+    "file": "experiments/cnn_controls/run_ablations.py",
+    "sha256": "23dcb25a5f6331880526387e928cb4ff02f240875b2f58d85a0e43891db9318b",
+    "change": "none"
+  },
+  {
+    "file": "experiments/cnn_controls/complete_experiment.py",
+    "sha256": "5e43164a114807a48bb78889115a90397fa9d858cd71bedcadd38dac6a671c55",
+    "change": "none"
+  },
+  {
+    "file": "experiments/cnn_controls/validate_experiment.py",
+    "sha256": "9d67dff5cbb7e18b9a76788c93d6936218612159d53ef996c496a29ef45bec81",
+    "change": "none"
+  },
+  {
+    "file": "experiments/cnn_controls/loss_aligned_gate.py",
+    "sha256": "77758462df983ef97cc6b317f241ce80bbd14ef45743c3586a87ffd39a5faadc",
+    "change": "none"
+  },
+  {
+    "file": "experiments/cnn_controls/build_report.py",
+    "sha256": "38b9446f75d02f61f9e3856c201a5796eeb7c8026691435638562ed969cb2cb6",
+    "change": "none"
+  },
+  {
+    "file": "experiments/gps/run_comparison.py",
+    "sha256": "ea0201196823b7e4b06d10375611248a1b21592afc742d42018ad87518cd3097",
+    "change": "none"
+  },
+  {
+    "file": "experiments/gps/prepare_gps.py",
+    "sha256": "0297e181da58a112cea9981d64798c85c21597cc01e6d1f3a03d66aeabbf1b62",
+    "change": "none"
+  },
+  {
+    "file": "experiments/gps/analyze_results.py",
+    "sha256": "bb6bd77061fcdfe913107545bf10e587327754e3ae8cc71ea40f90c6164e654b",
+    "change": "none"
+  },
+  {
+    "file": "experiments/gps/GEE_SOC_GPS_patches.js",
+    "sha256": "61be5f142f6e080591bf6b75ce02e08ef34d78f7dfa7e73df5cabd024c50a8a9",
+    "change": "none"
+  },
+  {
+    "file": "experiments/gps/requirements.txt",
+    "sha256": "7fc3e5983cb8198377c708532c1fb99d7188d4e5bd546ee7f5ba7356e5bc62ce",
+    "change": "none"
+  },
+  {
+    "file": "experiments/gps/vendor/cnn/train_patch_models.py",
+    "sha256": "6b18477bc1ebf9f239802a01bc11ddfe967a27c634c4c8a17aa125051e9099d1",
+    "change": "none"
+  },
+  {
+    "file": "experiments/gps/vendor/cnn/prepare_patches.py",
+    "sha256": "dbd12c0b378673c6319d38d1559ff9d55e45c122f9f2d60f4660b63fd3ac555a",
+    "change": "none"
+  },
+  {
+    "file": "experiments/gps/vendor/target_compare.py",
+    "sha256": "b84f16849c95173f037dff22cc015be02771bdb5dca455ffaf050be13caa17a2",
+    "change": "none"
+  },
+  {
+    "file": "experiments/gps/vendor/stage2/rf_compare.py",
+    "sha256": "1a485ceee329a156a6272ac27cabca49574765b34f6c321e76b263bf49969ae8",
+    "change": "none"
+  },
+  {
+    "file": "experiments/coordinates/audit_coordinates.py",
+    "sha256": "67aa171f8e79160e1386d1ebdf3df1e9a263b1f37fe0439813b2df8d4ec2aaf2",
+    "change": "none"
+  },
+  {
+    "file": "experiments/coordinates/requirements.txt",
+    "sha256": "55a5cbdb953897c5b91d487172a86f5f8889ede73a15ac1961a5bef957860557",
+    "change": "none"
+  },
+  {
+    "file": "experiments/adaptive/add_mae_reference.py",
+    "sha256": "a4f309713ca8933ba63f18c3851d74847ebe78ac54d9934f45bc773888e63d89",
+    "change": "none"
+  },
+  {
+    "file": "experiments/adaptive/analyze_gains.py",
+    "sha256": "57863a6c19cd731e0fb70f63442b9f0e558b150f39c055037041e68a6af7b668",
+    "change": "none"
+  },
+  {
+    "file": "experiments/adaptive/honest_pilot.py",
+    "sha256": "c5e67156cc5e6800223864764201f6c1c1c4234df54654f9807321fe7c0cd0f9",
+    "change": "none"
+  },
+  {
+    "file": "experiments/adaptive/validate_pilot.py",
+    "sha256": "941ef1a24fa185cca32b33cd6b24a55536470d440cb2b10a99e3b07682a7c5b3",
+    "change": "none"
+  },
+  {
+    "file": "experiments/adaptive/build_report.py",
+    "sha256": "1373ff5751e3c66e84fae89212889644de093c02fd3eee53a42cc3f9e450305a",
+    "change": "none"
+  }
+]

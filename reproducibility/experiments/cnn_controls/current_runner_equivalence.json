@@ -1,0 +1,6 @@
+{
+  "epochs_new": 16,
+  "epochs_source": 16,
+  "max_prediction_delta": 0.0,
+  "max_curve_delta": 0.0
+}

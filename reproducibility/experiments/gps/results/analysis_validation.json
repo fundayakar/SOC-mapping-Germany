@@ -1,0 +1,13 @@
+{
+  "all_completed": true,
+  "n_predictions": 169472,
+  "n_pairs": 84736,
+  "n_replay_predictions": 18912,
+  "replay_max_abs_delta": 1.1235022185474008e-05,
+  "n_exact_neural_state_replays": 64,
+  "replay_rounding": "Unchanged fitted states/normalization/epochs checked bitwise. Removing a test row can change float32 forward-pass rounding.",
+  "bootstrap_replicates": 2000,
+  "n_blocks": 47,
+  "bootstrap": "Fixed predictions; nominal 100km block resampling, paired centers; mean point losses across repeats, no refitting.",
+  "subgroup_interpretation": "Descriptive subsets; 28 offsets above20m are a small subgroup. CNN-vs-MLP also differs in architecture/capacity."
+}

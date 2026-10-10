@@ -1,0 +1,17 @@
+{
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "pandas": "2.2.3",
+  "scipy": "1.17.0",
+  "scikit_learn": "1.8.0",
+  "matplotlib": "3.10.8",
+  "torch": "2.14.1+cpu",
+  "joblib": "1.5.3",
+  "analysis_scripts_sha256": {
+    "run_ablations.py": "23dcb25a5f6331880526387e928cb4ff02f240875b2f58d85a0e43891db9318b",
+    "validate_experiment.py": "9d67dff5cbb7e18b9a76788c93d6936218612159d53ef996c496a29ef45bec81",
+    "build_report.py": "38b9446f75d02f61f9e3856c201a5796eeb7c8026691435638562ed969cb2cb6",
+    "loss_aligned_gate.py": "77758462df983ef97cc6b317f241ce80bbd14ef45743c3586a87ffd39a5faadc",
+    "complete_experiment.py": "5e43164a114807a48bb78889115a90397fa9d858cd71bedcadd38dac6a671c55"
+  }
+}

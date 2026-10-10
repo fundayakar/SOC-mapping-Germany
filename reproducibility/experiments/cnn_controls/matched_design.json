@@ -1,0 +1,16 @@
+{
+  "control_fingerprint": "2ecc6c18901eee0fc2e3506ae91b6316f41eec10060abc1b0048e81448afeb22",
+  "core_sha256": "23dcb25a5f6331880526387e928cb4ff02f240875b2f58d85a0e43891db9318b",
+  "code_sha256": "5e43164a114807a48bb78889115a90397fa9d858cd71bedcadd38dac6a671c55",
+  "note": "Fresh original CNN trained with exactly the same current fit implementation as controls. Cached original-stage3 predictions are secondary historical comparisons only.",
+  "original_fits": 160,
+  "primary_controls": 320,
+  "secondary_shuffle": 40,
+  "current_source_runner_equivalence": {
+    "epochs_new": 16,
+    "epochs_source": 16,
+    "max_prediction_delta": 0.0,
+    "max_curve_delta": 0.0
+  },
+  "fingerprint": "789b8cf2c670ac2c2faddf2f6a054d36b6591afdce0346b5ff4f69314bdb5463"
+}

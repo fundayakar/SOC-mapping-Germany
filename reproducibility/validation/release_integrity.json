@@ -1,0 +1,11 @@
+{
+  "all_passed": true,
+  "manifest_files": 111,
+  "predictor_arrays": 6,
+  "source_labels_public": false,
+  "frozen_role_groups_per_cohort": 40,
+  "minimum_nominal_buffer_m": 20000.117598042718,
+  "main_repeat_rows": 128,
+  "main_conditions": 32,
+  "gps_conditions": 32
+}

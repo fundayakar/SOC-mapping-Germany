@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite this software version and the original data providers."
+type: software
+title: "SOC-mapping-Germany: Separating neighbourhood information from spatial arrangement in soil organic carbon prediction across Germany"
+version: 2.0.0
+date-released: 2026-10-10
+authors:
+  - family-names: Yakar
+    given-names: Funda
+    orcid: "https://orcid.org/0000-0002-7082-3956"
+repository-code: "https://github.com/fundayakar/SOC-mapping-Germany"
+license: CC-BY-4.0

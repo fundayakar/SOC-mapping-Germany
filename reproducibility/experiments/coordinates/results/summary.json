@@ -1,0 +1,57 @@
+{
+  "source_778": {
+    "n": 778,
+    "matched_to_official": 778,
+    "asset_to_theoretical_max_m": 0.29113784289343914,
+    "gps_usable_n": 776,
+    "gps_unusable_ids": [
+      "44523252",
+      "45782870"
+    ],
+    "gps_displacement_m": {
+      "0": 0.02277865333251971,
+      "0.5": 1.8583331816353956,
+      "0.9": 8.045332924687294,
+      "0.95": 15.53994353204696,
+      "0.99": 65.83599890930658,
+      "1": 97.11672068501115
+    },
+    "gps_displacement_above_20m_n": 31,
+    "gps_displacement_above_100m_n": 0,
+    "gps_precision_median_m": 4.0,
+    "gps_changes_100km_cell_n": 16,
+    "rounding_changes_100km_cell_n": 15
+  },
+  "cohort_663": {
+    "n": 663,
+    "matched_to_official": 663,
+    "asset_to_theoretical_max_m": 0.29113784289343914,
+    "gps_usable_n": 662,
+    "gps_unusable_ids": [
+      "45782870"
+    ],
+    "gps_displacement_m": {
+      "0": 0.056369819023670026,
+      "0.5": 1.8817359342120064,
+      "0.9": 8.452032788376659,
+      "0.95": 16.46242164190559,
+      "0.99": 73.15364423027728,
+      "1": 97.11672068501115
+    },
+    "gps_displacement_above_20m_n": 28,
+    "gps_displacement_above_100m_n": 0,
+    "gps_precision_median_m": 4.0,
+    "gps_changes_100km_cell_n": 13,
+    "rounding_changes_100km_cell_n": 15,
+    "gps_within_patch_n": 662,
+    "gps_within_centre_cell_n": 152,
+    "npz_vs_asset_max_displacement_m": 4.656612873077393e-10
+  },
+  "buffered_outer": {
+    "n_folds": 15,
+    "nominal_min_distance_m": 20000.117598042718,
+    "usable_gps_min_distance_m": 19979.032479848185,
+    "pair_instances_below20km": 2,
+    "unique_unordered_pairs_below20km": 1
+  }
+}

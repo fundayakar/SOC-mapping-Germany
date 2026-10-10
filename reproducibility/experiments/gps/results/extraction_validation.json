@@ -1,0 +1,28 @@
+[
+  {
+    "year": 2018,
+    "n": 662,
+    "gps_center_all_valid": true,
+    "actual_arrays_reextracted": true,
+    "common_overlap_parity_passed": true,
+    "max_overlap_abs_delta": 0.0,
+    "mask_overlap_max_delta": 0.0,
+    "n_centers_changed": 510,
+    "n_climate_changed": 0,
+    "row_world_direction": 1,
+    "input_sha256": "c0b0e103f4c7c0e4876255ae051afd931da18bedd3a9fa9f3f4c3aa501b8be93"
+  },
+  {
+    "year": 2022,
+    "n": 662,
+    "gps_center_all_valid": true,
+    "actual_arrays_reextracted": true,
+    "common_overlap_parity_passed": true,
+    "max_overlap_abs_delta": 0.0,
+    "mask_overlap_max_delta": 0.0,
+    "n_centers_changed": 510,
+    "n_climate_changed": 0,
+    "row_world_direction": 1,
+    "input_sha256": "6fbca36cd986d91db7b963c1d07746ae0177bce67b03e58ffbcf2bf1a28c079f"
+  }
+]
